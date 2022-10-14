@@ -1,0 +1,37 @@
+{
+  "name": "style-package-test",
+  "version": "1.0.0",
+  "description": "封装一个样式文件npm包",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WuT416/style-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WuT416/style-package/issues"
+  },
+  "homepage": "https://github.com/WuT416/style-package#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^29.0.1",
+    "babel-loader": "^8.2.5",
+    "babel-plugin-add-module-exports": "^1.0.4",
+    "babel-preset-env": "^1.7.0",
+    "clean-webpack-plugin": "^4.0.0",
+    "eslint": "^8.23.0",
+    "i": "^0.3.7",
+    "jest": "^29.0.1",
+    "jquery": "^3.6.1",
+    "npm": "^8.18.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.54.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
