@@ -1,5 +1,5 @@
 {
-  "name": "style-package-test",
+  "name": "@vivian/stylehub",
   "version": "1.0.0",
   "description": "封装一个样式文件npm包",
   "main": "index.js",
