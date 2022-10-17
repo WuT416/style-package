@@ -37,5 +37,9 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
+  },
+  "directories": {
+    "example": "example",
+    "lib": "lib"
   }
 }
